@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Java
+*.class
+bin/
+out/
+target/
+*.jar
+hs_err_pid*.log
